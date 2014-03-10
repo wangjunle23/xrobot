@@ -1,4 +1,9 @@
-wb_spider
+xrobot
 =========
 
-support sina weibo. tencent weibo.
+一个自动化机器人，简单的研究项目。
+目标，可以定制化站点和相关协议，调用相关的协议，机器化攻击站点。
+
+1.以腾讯微博为例.
+
+
